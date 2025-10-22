@@ -1,0 +1,12 @@
+# Sensitive Files
+config.py
+
+# Temporary Files (Use as prefix)
+temp__*
+**/temp__*
+
+# Desktop.ini files from GDrive
+desktop.ini
+input_classification_schema/desktop.ini
+input_reference_tables/desktop.ini
+
