@@ -10,3 +10,6 @@ desktop.ini
 input_classification_schema/desktop.ini
 input_reference_tables/desktop.ini
 
+# Other Temp Files
+~$*
+**/~$*
